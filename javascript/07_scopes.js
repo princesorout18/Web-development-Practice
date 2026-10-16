@@ -1,4 +1,4 @@
-const score=12
+const score=12   
 
 function myfunction(){
     let b="abc"
